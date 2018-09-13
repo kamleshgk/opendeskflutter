@@ -1,4 +1,4 @@
-package com.example.opendesk;
+package com.openitdesk.mobile;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
