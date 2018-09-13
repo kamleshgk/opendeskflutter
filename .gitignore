@@ -1,2 +1,6 @@
 ios/GoogleService-Info.plist
 build/
+google-services.json
+.packages
+.vscode
+.flutter-plugins
